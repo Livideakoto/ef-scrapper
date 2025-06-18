@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "build-hm": "npx tsc && node src/extract-heure-miroir.js"
+  },
+  "dependencies": {
+    "axios": "^1.9.0",
+    "cheerio": "^1.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.30",
+    "typescript": "^5.8.3"
+  }
+}
