@@ -1,10 +1,13 @@
 {
   "scripts": {
-    "build-hm": "npx tsc && node src/extract-heure-miroir.js"
+    "build-hm": "npx tsc && node src/extract-heure-miroir.js",
+    "build-geo": "npx tsc && node src/generate-geodatas.js",
+    "build-villes": "npx tsc && node src/generate-realgeodata.js"
   },
   "dependencies": {
     "axios": "^1.9.0",
-    "cheerio": "^1.1.0"
+    "cheerio": "^1.1.0",
+    "slugify": "^1.6.6"
   },
   "devDependencies": {
     "@types/node": "^22.15.30",
