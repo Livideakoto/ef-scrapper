@@ -2,7 +2,8 @@
   "scripts": {
     "build-hm": "npx tsc && node src/extract-heure-miroir.js",
     "build-geo": "npx tsc && node src/generate-geodatas.js",
-    "build-villes": "npx tsc && node src/generate-realgeodata.js"
+    "build-villes": "npx tsc && node src/generate-realgeodata.js",
+    "build-mix-code": "npx tsc && node src/mix-code-dept.js"
   },
   "dependencies": {
     "axios": "^1.9.0",
