@@ -5,7 +5,9 @@
     "build-villes": "npx tsc && node src/generate-realgeodata.js",
     "build-mix-code": "npx tsc && node src/mix-code-dept.js",
     "build-faq-tchat": "npx tsc && node src/extract-faq-tchat.js",
-    "build-faq-generic": "npx tsc && node src/extract-faq-generic.js"
+    "build-faq-generic": "npx tsc && node src/extract-faq-generic.js",
+    "build-sms-cards": "npx tsc && node src/extract-sms-cards.js",
+    "build-cards-generic": "npx tsc && node src/extract-cards-generic.js"
   },
   "dependencies": {
     "axios": "^1.9.0",

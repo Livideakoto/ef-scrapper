@@ -1,0 +1,23 @@
+{
+    "url": "https://www.esteban-frederic.fr/voyance-sms/",
+    "pathname": "/voyance-sms",
+    "constantName": "VoyanceSmsCards",
+    "sectionTitle": "Tout savoir sur la voyance par SMS",
+    "expectedTitles": [
+        "Consultation voyance par SMS : 98% de satisfaction !",
+        "La voyance par SMS : comment ça marche?",
+        "Quels sont les avantages de la voyance par SMS ?",
+        "Combien coûte une voyance par SMS ?",
+        "Voyance par SMS : quels supports divinatoires utilisent les voyants ?",
+        "Quelle question poser lors d'une voyance par SMS ?"
+    ],
+    "imageMapping": {
+        "Consultation voyance par SMS : 98% de satisfaction !": "consultation-sms-satisfaction",
+        "La voyance par SMS : comment ça marche?": "comment-ca-marche",
+        "Quels sont les avantages de la voyance par SMS ?": "avantages-voyance-sms",
+        "Combien coûte une voyance par SMS ?": "cout-voyance-sms",
+        "Voyance par SMS : quels supports divinatoires utilisent les voyants ?": "supports-divinatoires",
+        "Quelle question poser lors d'une voyance par SMS ?": "questions-voyance-sms"
+    },
+    "outputFileName": "sms-cards.ts"
+}
