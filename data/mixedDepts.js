@@ -1,8 +1,8 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.villeDatas = void 0;
+exports.departements = void 0;
 // AUTO-GENERATED FILE
-exports.villeDatas = [
+exports.departements = [
     {
         "id": 1,
         "type": "departement",
