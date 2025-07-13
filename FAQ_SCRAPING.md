@@ -46,6 +46,37 @@ npm run build-cards-generic <CONFIG_FILE>
 npm run build-cards-generic sms-cards.json
 ```
 
+### 3. Scripts FAQ Astrologiques
+
+#### Script spécifique FAQ Astrologiques
+```bash
+npm run build-astrologie-faq
+```
+Extrait les FAQs de tous les signes astrologiques depuis les pages `/astrologie-signe-{signe}/`.
+
+#### Script générique FAQ Astrologiques
+```bash
+npm run build-astrologie-faq-generic [CONFIG_FILE]
+```
+
+**Paramètres :**
+- `CONFIG_FILE` : (optionnel) Fichier de configuration JSON pour personnaliser l'extraction
+
+**Configuration par défaut :**
+```json
+{
+  "signes": ["belier", "taureau", "gemeaux", "cancer", "lion", "vierge", "balance", "scorpion", "sagittaire", "capricorne", "verseau", "poissons"],
+  "baseUrl": "https://www.esteban-frederic.fr/astrologie-signe-",
+  "outputFile": "astrologie-faqs-generic.ts",
+  "pathPrefix": "/astrologie-signe-"
+}
+```
+
+**Exemple avec configuration personnalisée :**
+```bash
+npm run build-astrologie-faq-generic config/astrologie-faq-config.json
+```
+
 ## Structure des fichiers générés
 
 ### FAQs
@@ -65,6 +96,25 @@ const [CONSTANT_NAME] = [
 
 export const faqs: Record<string, IFaqItem[]> = {
     "[PATHNAME]": [CONSTANT_NAME],
+};
+```
+
+### FAQs Astrologiques
+```typescript
+export interface IAstrologieFaqItem {
+    question: string;
+    answer: string;
+}
+
+export const astrologieFaqsByPath: Record<string, IAstrologieFaqItem[]> = {
+    "/astrologie-signe-belier": [
+        {
+            question: "Quel est le caractère d'un Bélier ?",
+            answer: "<div><p>Le Bélier est un signe astrologique connu pour son caractère dynamique et audacieux...</p></div>"
+        },
+        // ... autres FAQs
+    ],
+    // ... autres signes
 };
 ```
 

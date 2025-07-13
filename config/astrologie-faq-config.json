@@ -1,0 +1,19 @@
+{
+  "signes": [
+    "belier",
+    "taureau",
+    "gemeaux",
+    "cancer",
+    "lion",
+    "vierge",
+    "balance",
+    "scorpion",
+    "sagittaire",
+    "capricorne",
+    "verseau",
+    "poissons"
+  ],
+  "baseUrl": "https://www.esteban-frederic.fr/astrologie-signe-",
+  "outputFile": "astrologie-faqs-custom.ts",
+  "pathPrefix": "/astrologie-signe-"
+}
