@@ -1,6 +1,6 @@
 "use strict";
 // Fichier généré automatiquement - Ne pas modifier manuellement
-// Généré le: 2025-07-13T21:17:54.836Z
+// Généré le: 2025-07-13T21:23:07.807Z
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.astrologieFaqsBySigne = void 0;
 exports.astrologieFaqsBySigne = {
@@ -240,6 +240,28 @@ exports.astrologieFaqsBySigne = {
         {
             "title": "Quel avenir pour les Verseau ?",
             "content": "<div aria-labelledby=\"heading13\" data-parent=\"#faqs-wrapper\"><div><p>Globalement, 2023 sera une année favorable pour vous, sauf sur le plan professionnel et financier en début d’année. Des doutes menacent de vous affaiblir, et vous pourriez avoir l’impression de ne pas être à la hauteur, ou de ne pas être reconnu pour vos talents et réalisations. Ne vous laissez pas abattre et continuez de vous donner à fond dans vos différents projets. Avec un peu plus de pragmatisme et de bon sens, vous en viendrez à bout. Heureusement, la situation se décantera très vite. Continuez à prendre soin de votre santé et mettez en priorité votre bien-être Côté amour, votre audace sera votre meilleur atout pour rencontrer l’amour et le garder. Toujours inconventionnel, vous saurez faire régner la complicité dans votre couple. Toutefois, vous serez amené à faire quelques compromis au milieu de l’année, pour la finir en beauté sur tous les plans.</p></div></div>"
+        }
+    ],
+    "poissons": [
+        {
+            "title": "Quel est le caractère d'un Poisson ?",
+            "content": "<div aria-labelledby=\"heading3\" data-parent=\"#faqs-wrapper\"><div><p>Les natifs du signe zodiaque Poisson sont caractérisés principalement par leur imagination liée à leur grande sensibilité. Lorsque tout va bien dans sa vie, le Poisson laisse libre cours à sa personnalité créative, inventive, empathique. Connus pour être de très grands artistes, les Poissons font d’excellents amants et peuvent être de très bons amis. Cela dit, lorsqu’un Poisson laisse son côté obscur prendre le dessus, il n’a plus aucune notion de la réalité. Il devient sombre et se laisse attirer vers un pessimisme exacerbé. Dans cet état, sous l’influence de son entourage, il peut perdre confiance en lui. De ce fait, il faut savoir procéder avec douceur pour le ramener à la raison.</p></div></div>"
+        },
+        {
+            "title": "Quels sont les défauts du Poisson ?",
+            "content": "<div aria-labelledby=\"heading4\" data-parent=\"#faqs-wrapper\"><div><p>Le signe Poisson est très souvent coupé de la réalité. Il est souvent critiqué pour son manque de sérieux, car il agit au feeling et se laisse porter par les événements de la vie. D’ailleurs, les natifs du signe Poisson ne se préoccupent pas de ce qui se passe autour d’eux, ils prennent plutôt les choses avec nonchalance. Ils ne sont absolument pas dérangés de vivre dans le désordre. C’est un aspect de leur personnalité qui peut indisposer ceux qui l’entourent. Étant un grand je-m’en-foutiste, il se fout un peu de ce qui se dit sur lui.</p></div></div>"
+        },
+        {
+            "title": "Quel signe astrologique est compatible avec le Poisson ?",
+            "content": "<div aria-labelledby=\"heading5\" data-parent=\"#faqs-wrapper\"><div><p>S’il y a un signe qui s’entend le mieux avec le Poisson, c’est le Scorpion. Entre ces deux signes, c’est l’harmonie totale. Ces deux, en relation, n’ont pas besoin de se justifier à propos de leurs émotions. Le Poisson et le Scorpion ont souvent tendance à préférer les sentiments sincères et intenses. Très dévoués l’un à l’autre, ils arrivent à vivre de belles aventures. Même si le Scorpion paraît extravagant par moments, la confiance qui existe entre lui et le Poisson est maintenue. Les liens qui les lient sont solides.</p></div></div>"
+        },
+        {
+            "title": "Femme et homme Poissons : Des personnalités différentes ?",
+            "content": "<div aria-labelledby=\"heading10\" data-parent=\"#faqs-wrapper\"><div><p>La femme Poisson est de nature rêveuse. Dotée d’un grand sens artistique et créatif, elle se laisse influencer par toutes les tendances, et finit par les mixer afin de créer sa propre tendance. Toutes ses relations ne sont jamais banales. Il en est de même pour ses goûts et sa manière de penser qui se calquent sur tout ce qu’elle rencontre. Elle est optimiste et aime tester ses limites. L’homme Poisson quant à lui est un peu plus introverti et sociable. Il cherche à s’évader à travers des passions comme la peinture. Cependant, il est très attaché à sa routine quotidienne. Il est de nature très généreuse, mais pas avec tout le monde. Sa famille et ses amis proches ont toute sa confiance, mais il peut arriver qu’il se sente mal à l’aise au milieu d’eux. Il aime prendre son temps pour réfléchir avant de poser des actes.</p></div></div>"
+        },
+        {
+            "title": "Quel avenir pour les Poissons ?",
+            "content": "<div aria-labelledby=\"heading11\" data-parent=\"#faqs-wrapper\"><div><p>L’année 2023 sera votre point d’ancrage pour un nouveau départ et de nouvelles résolutions, en particulier en amour. Vous ferez également de belles rencontres, même si votre méfiance aura tendance à prendre le dessus. La sérénité reprendra ses droits au fur et à mesure. Sur le plan professionnel, de très belles opportunités vous attendent. Le printemps sera la période idéale. N’hésitez pas à sortir de votre zone de confort et à saisir votre chance. On le sait bien, vous aimez vous faire plaisir, mais les astres vous invitent à faire gaffe à vos finances. C’est le moment pour vous de mieux gérer vos achats compulsifs. Vous connaîtrez également quelques épisodes de fatigue, mais rien de grave. En son temps, ce sera un rappel pour vous, afin de vous reposer.</p></div></div>"
         }
     ]
 };
