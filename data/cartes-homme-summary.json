@@ -1,0 +1,270 @@
+{
+  "totalCards": 33,
+  "extractionDate": "2025-07-26T19:53:00.583Z",
+  "cards": [
+    {
+      "name": "carte-homme",
+      "title": "La carte de l’Homme",
+      "url": "https://www.esteban-frederic.fr/carte-homme/",
+      "hasImage": false,
+      "hasQuote": true,
+      "contentLength": 1377
+    },
+    {
+      "name": "carte-femme",
+      "title": "La carte de la Femme",
+      "url": "https://www.esteban-frederic.fr/carte-femme/",
+      "hasImage": false,
+      "hasQuote": true,
+      "contentLength": 1732
+    },
+    {
+      "name": "la-carte-de-la-reussite",
+      "title": "La carte de la Réussite",
+      "url": "https://www.esteban-frederic.fr/la-carte-de-la-reussite/",
+      "hasImage": false,
+      "hasQuote": true,
+      "contentLength": 1245
+    },
+    {
+      "name": "carte-elevation",
+      "title": "La carte de l’Elevation",
+      "url": "https://www.esteban-frederic.fr/carte-elevation/",
+      "hasImage": false,
+      "hasQuote": true,
+      "contentLength": 1871
+    },
+    {
+      "name": "la-carte-du-retard",
+      "title": "La carte du Retard",
+      "url": "https://www.esteban-frederic.fr/la-carte-du-retard/",
+      "hasImage": false,
+      "hasQuote": true,
+      "contentLength": 1662
+    },
+    {
+      "name": "carte-amitie",
+      "title": "La carte de l’Amitié",
+      "url": "https://www.esteban-frederic.fr/carte-amitie/",
+      "hasImage": false,
+      "hasQuote": true,
+      "contentLength": 1634
+    },
+    {
+      "name": "carte-maison",
+      "title": "La carte de la Maison",
+      "url": "https://www.esteban-frederic.fr/carte-maison/",
+      "hasImage": false,
+      "hasQuote": true,
+      "contentLength": 2174
+    },
+    {
+      "name": "carte-force",
+      "title": "La carte de la Force",
+      "url": "https://www.esteban-frederic.fr/carte-force/",
+      "hasImage": false,
+      "hasQuote": true,
+      "contentLength": 1363
+    },
+    {
+      "name": "carte-instabilite",
+      "title": "La carte de l’Instabilité",
+      "url": "https://www.esteban-frederic.fr/carte-instabilite/",
+      "hasImage": false,
+      "hasQuote": true,
+      "contentLength": 1785
+    },
+    {
+      "name": "carte-trahison",
+      "title": "La carte de la Trahison",
+      "url": "https://www.esteban-frederic.fr/carte-trahison/",
+      "hasImage": false,
+      "hasQuote": true,
+      "contentLength": 1747
+    },
+    {
+      "name": "carte-danger",
+      "title": "La carte du Danger",
+      "url": "https://www.esteban-frederic.fr/carte-danger/",
+      "hasImage": false,
+      "hasQuote": true,
+      "contentLength": 1864
+    },
+    {
+      "name": "carte-argent",
+      "title": "La carte de l’Argent",
+      "url": "https://www.esteban-frederic.fr/carte-argent/",
+      "hasImage": false,
+      "hasQuote": true,
+      "contentLength": 1861
+    },
+    {
+      "name": "la-carte-du-retour",
+      "title": "La carte du Retour",
+      "url": "https://www.esteban-frederic.fr/la-carte-du-retour/",
+      "hasImage": false,
+      "hasQuote": true,
+      "contentLength": 1336
+    },
+    {
+      "name": "carte-difficulte",
+      "title": "La carte de la Difficulté",
+      "url": "https://www.esteban-frederic.fr/carte-difficulte/",
+      "hasImage": false,
+      "hasQuote": true,
+      "contentLength": 1269
+    },
+    {
+      "name": "carte-travail",
+      "title": "La carte du Travail",
+      "url": "https://www.esteban-frederic.fr/carte-travail/",
+      "hasImage": false,
+      "hasQuote": true,
+      "contentLength": 1723
+    },
+    {
+      "name": "carte-vacances",
+      "title": "La carte des Vacances",
+      "url": "https://www.esteban-frederic.fr/carte-vacances/",
+      "hasImage": false,
+      "hasQuote": true,
+      "contentLength": 1710
+    },
+    {
+      "name": "la-carte-de-la-nouvelle",
+      "title": "La carte de la Nouvelle",
+      "url": "https://www.esteban-frederic.fr/la-carte-de-la-nouvelle/",
+      "hasImage": false,
+      "hasQuote": true,
+      "contentLength": 1712
+    },
+    {
+      "name": "carte-union",
+      "title": "La carte de l’Union",
+      "url": "https://www.esteban-frederic.fr/carte-union/",
+      "hasImage": false,
+      "hasQuote": true,
+      "contentLength": 1125
+    },
+    {
+      "name": "la-carte-de-la-famille",
+      "title": "La carte de la Famille",
+      "url": "https://www.esteban-frederic.fr/la-carte-de-la-famille/",
+      "hasImage": false,
+      "hasQuote": true,
+      "contentLength": 1765
+    },
+    {
+      "name": "la-carte-de-lamour",
+      "title": "La carte de l’Amour",
+      "url": "https://www.esteban-frederic.fr/la-carte-de-lamour/",
+      "hasImage": false,
+      "hasQuote": true,
+      "contentLength": 1223
+    },
+    {
+      "name": "carte-conflit",
+      "title": "La carte du Conflit",
+      "url": "https://www.esteban-frederic.fr/carte-conflit/",
+      "hasImage": false,
+      "hasQuote": true,
+      "contentLength": 1344
+    },
+    {
+      "name": "carte-separation",
+      "title": "La carte de la Séparation",
+      "url": "https://www.esteban-frederic.fr/carte-separation/",
+      "hasImage": false,
+      "hasQuote": true,
+      "contentLength": 1769
+    },
+    {
+      "name": "la-carte-du-changement",
+      "title": "La carte du Changement",
+      "url": "https://www.esteban-frederic.fr/la-carte-du-changement/",
+      "hasImage": false,
+      "hasQuote": true,
+      "contentLength": 1249
+    },
+    {
+      "name": "carte-discussions",
+      "title": "La carte des Discussions",
+      "url": "https://www.esteban-frederic.fr/carte-discussions/",
+      "hasImage": false,
+      "hasQuote": true,
+      "contentLength": 1559
+    },
+    {
+      "name": "carte-echec",
+      "title": "La carte de l’Echec",
+      "url": "https://www.esteban-frederic.fr/carte-echec/",
+      "hasImage": false,
+      "hasQuote": true,
+      "contentLength": 2164
+    },
+    {
+      "name": "carte-jalousie",
+      "title": "La carte de la Jalousie",
+      "url": "https://www.esteban-frederic.fr/carte-jalousie/",
+      "hasImage": false,
+      "hasQuote": true,
+      "contentLength": 1904
+    },
+    {
+      "name": "la-carte-du-mensonge",
+      "title": "La carte du Mensonge",
+      "url": "https://www.esteban-frederic.fr/la-carte-du-mensonge/",
+      "hasImage": false,
+      "hasQuote": true,
+      "contentLength": 1867
+    },
+    {
+      "name": "carte-passe",
+      "title": "La carte du Passé",
+      "url": "https://www.esteban-frederic.fr/carte-passe/",
+      "hasImage": false,
+      "hasQuote": true,
+      "contentLength": 1965
+    },
+    {
+      "name": "carte-choix",
+      "title": "La carte du Choix",
+      "url": "https://www.esteban-frederic.fr/carte-choix/",
+      "hasImage": false,
+      "hasQuote": true,
+      "contentLength": 1846
+    },
+    {
+      "name": "carte-eloignement",
+      "title": "La carte de l’Eloignement",
+      "url": "https://www.esteban-frederic.fr/carte-eloignement/",
+      "hasImage": false,
+      "hasQuote": true,
+      "contentLength": 1937
+    },
+    {
+      "name": "carte-bonheur",
+      "title": "La carte du Bonheur",
+      "url": "https://www.esteban-frederic.fr/carte-bonheur/",
+      "hasImage": false,
+      "hasQuote": true,
+      "contentLength": 1718
+    },
+    {
+      "name": "carte-jeunesse",
+      "title": "La carte de la Jeunesse",
+      "url": "https://www.esteban-frederic.fr/carte-jeunesse/",
+      "hasImage": false,
+      "hasQuote": true,
+      "contentLength": 1340
+    },
+    {
+      "name": "carte-vieillesse",
+      "title": "La carte de la Vieillesse",
+      "url": "https://www.esteban-frederic.fr/carte-vieillesse/",
+      "hasImage": false,
+      "hasQuote": true,
+      "contentLength": 1199
+    }
+  ]
+}

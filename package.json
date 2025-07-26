@@ -9,7 +9,11 @@
     "build-sms-cards": "npx tsc && node src/extract-sms-cards.js",
     "build-cards-generic": "npx tsc && node src/extract-cards-generic.js",
     "build-astrologie-faq": "npx tsc && node src/extract-astrologie-faq-cheerio.js",
-    "build-astrologie-faq-generic": "npx tsc && node src/extract-astrologie-faq-generic.js"
+    "build-astrologie-faq-generic": "npx tsc && node src/extract-astrologie-faq-generic.js",
+    "build-cartes-homme": "npx tsc && node src/extract-cartes-homme.js",
+    "build-cartes-homme-opt": "npx tsc && node src/extract-cartes-homme-optimized.js",
+    "build-cartes-avec-images": "npx tsc && node src/extract-cartes-avec-images.js",
+    "test-image-download": "npx tsc && node src/test-download-image.js"
   },
   "dependencies": {
     "axios": "^1.9.0",

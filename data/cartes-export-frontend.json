@@ -1,0 +1,272 @@
+{
+  "totalCartes": 33,
+  "cartes": [
+    {
+      "id": "carte-homme",
+      "nom": "La carte de l’Homme",
+      "url": "https://www.esteban-frederic.fr/carte-homme/",
+      "citation": "C’est à la fin de ma vie que je pourrais dire si j’ai réussi à être un homme.",
+      "resume": "Esteban Frederic / La carte de l’Homme\nLe principe masculin évoque l’énergie, l’autorité, la puissance créative, mais aussi la stabilité matérielle.\nCette carte indique que vous êtes armé de force, de..."
+    },
+    {
+      "id": "carte-femme",
+      "nom": "La carte de la Femme",
+      "url": "https://www.esteban-frederic.fr/carte-femme/",
+      "citation": "La femme est le trésor du monde.",
+      "resume": "Esteban Frederic / La carte de la Femme\nLe principe féminin évoque l’harmonie, l’intelligence, l’intuition, les arts, mais aussi les choses cachées, et le renoncement à toute forme d’autorité brutale...."
+    },
+    {
+      "id": "la-carte-de-la-reussite",
+      "nom": "La carte de la Réussite",
+      "url": "https://www.esteban-frederic.fr/la-carte-de-la-reussite/",
+      "citation": "La persévérance est le chemin de la réussite.",
+      "resume": "Esteban Frederic / La carte de la Réussite\nLe succès est au bout du chemin. Et quelles que soient les difficultés que vous devrez encore surmonter, aucune ne viendra définitivement entraver votre rout..."
+    },
+    {
+      "id": "carte-elevation",
+      "nom": "La carte de l’Elevation",
+      "url": "https://www.esteban-frederic.fr/carte-elevation/",
+      "citation": "S’élever, c’est renaître.",
+      "resume": "Esteban Frederic / La carte de l’Elevation\nAu cours d’une existence, tout être connaît de nombreuses circonstances, au cours desquelles il est amené à s’élever. Car l’élévation n’est pas que spirituel..."
+    },
+    {
+      "id": "la-carte-du-retard",
+      "nom": "La carte du Retard",
+      "url": "https://www.esteban-frederic.fr/la-carte-du-retard/",
+      "citation": "Le retard n’est qu’un caillou du chemin. Il entrave ma marche, mais ne l’arrête pas.",
+      "resume": "Esteban Frederic / La carte du Retard\nCette carte entrave les projets, sans pour autant les remettre en question. Mais, elle vous amène à vous interroger. Êtes-vous la victime passive d’un retard, ou ..."
+    },
+    {
+      "id": "carte-amitie",
+      "nom": "La carte de l’Amitié",
+      "url": "https://www.esteban-frederic.fr/carte-amitie/",
+      "citation": "Un ami est celui qui aide, quand les autres jugent.",
+      "resume": "Esteban Frederic / La carte de l’Amitié\nBien évidemment, cette carte désigne, en premier lieu, une personne qui nourrit pour vous des liens d’amitié. Elle est donc, à priori, sincère et fidèle, et vou..."
+    },
+    {
+      "id": "carte-maison",
+      "nom": "La carte de la Maison",
+      "url": "https://www.esteban-frederic.fr/carte-maison/",
+      "citation": "Mon âme est ma maison.",
+      "resume": "Esteban Frederic / La carte de la Maison\nAu plan symbolique, la maison représente le refuge, la sécurité, le confort… mais attention, elle peut aussi signifier un enfermement exagéré sur soi-même et u..."
+    },
+    {
+      "id": "carte-force",
+      "nom": "La carte de la Force",
+      "url": "https://www.esteban-frederic.fr/carte-force/",
+      "citation": "Il n’y a pas de force sans volonté.",
+      "resume": "Esteban Frederic / La carte de la Force\nCette carte est une promesse de réussite. Car, elle vous indique que vous avez en vous les ressources nécessaires pour surmonter les obstacles qui se dressent s..."
+    },
+    {
+      "id": "carte-instabilite",
+      "nom": "La carte de l’Instabilité",
+      "url": "https://www.esteban-frederic.fr/carte-instabilite/",
+      "citation": "Chacun d’entre nous tente de se bâtir une vie stable dans un monde instable.",
+      "resume": "Esteban Frederic / La carte de l’Instabilité\nL’instabilité est un état souvent provisoire. Elle indique un processus de changement en cours, ou à venir. Les périodes d’instabilité sont donc nécessaire..."
+    },
+    {
+      "id": "carte-trahison",
+      "nom": "La carte de la Trahison",
+      "url": "https://www.esteban-frederic.fr/carte-trahison/",
+      "citation": "Trahir un autre, c’est se renier soi-même.",
+      "resume": "Esteban Frederic / La carte de la Trahison\nCette carte vous alerte sur les «&nbsp;faux-amis&nbsp;», ceux qui sans vergogne, sont capables de trahir la confiance que vous avez placée en eux.&nbsp;\nLe m..."
+    },
+    {
+      "id": "carte-danger",
+      "nom": "La carte du Danger",
+      "url": "https://www.esteban-frederic.fr/carte-danger/",
+      "citation": "Avoir peur du danger, c’est déjà abdiquer devant l’épreuve.",
+      "resume": "Esteban Frederic / La carte du Danger\nUne situation très incertaine, voire dangereuse est annoncée. Chassez toute forme de peur, vous devez garder les idées claires pour gérer au mieux cet épisode de ..."
+    },
+    {
+      "id": "carte-argent",
+      "nom": "La carte de l’Argent",
+      "url": "https://www.esteban-frederic.fr/carte-argent/",
+      "citation": "L’homme riche achète un livre, l’homme sage est le livre.",
+      "resume": "Esteban Frederic / La carte de l’Argent\nDans un tirage neutre ou positif, cette carte annonce une rentrée d’argent substantielle. Cela ne signifie peut-être pas la fin de tous vos soucis matériels, ma..."
+    },
+    {
+      "id": "la-carte-du-retour",
+      "nom": "La carte du Retour",
+      "url": "https://www.esteban-frederic.fr/la-carte-du-retour/",
+      "citation": "Seul le temps révèle la justesse de nos choix passés.",
+      "resume": "Esteban Frederic / La carte du Retour\nNos vies ne sont pas toujours linéaires. Des aller-retours rythment parfois nos existences. Et tel, le «&nbsp;fils prodigue&nbsp;», plus d’un d’entre nous a déjà ..."
+    },
+    {
+      "id": "carte-difficulte",
+      "nom": "La carte de la Difficulté",
+      "url": "https://www.esteban-frederic.fr/carte-difficulte/",
+      "citation": "Une difficulté n’est pas un obstacle, c’est un défi.",
+      "resume": "Esteban Frederic / La carte de la Difficulté\nLorsque la difficulté s’invite dans notre vie, seuls deux choix s’imposent à nous&nbsp;: renoncer ou persévérer. Ainsi, la carte de la Difficulté n’indique..."
+    },
+    {
+      "id": "carte-travail",
+      "nom": "La carte du Travail",
+      "url": "https://www.esteban-frederic.fr/carte-travail/",
+      "citation": "Un travail sans passion est un chemin jonché d’épines.",
+      "resume": "Esteban Frederic / La carte du Travail\nQue ce soit par les études, ou par un poste rémunéré, le travail est souvent un excellent moyen de se révéler à soi-même. Il est un révélateur de notre personnal..."
+    },
+    {
+      "id": "carte-vacances",
+      "nom": "La carte des Vacances",
+      "url": "https://www.esteban-frederic.fr/carte-vacances/",
+      "citation": "Le repos d’aujourd’hui est l’énergie de demain.",
+      "resume": "Esteban Frederic / La carte des Vacances\nCette carte vous indique qu’il est temps de faire une pause. Ce «&nbsp;break&nbsp;» peut concerner votre travail, comme tout autre secteur de votre vie. Car, m..."
+    },
+    {
+      "id": "la-carte-de-la-nouvelle",
+      "nom": "La carte de la Nouvelle",
+      "url": "https://www.esteban-frederic.fr/la-carte-de-la-nouvelle/",
+      "citation": "Les mots sont les messagers de notre âme",
+      "resume": "Esteban Frederic / La carte de la Nouvelle\nVous allez recevoir une nouvelle sous peu. Et cette dernière ne vous laissera pas indifférent. Rassurez-vous, attendue ou pas, cette communication ne peut êt..."
+    },
+    {
+      "id": "carte-union",
+      "nom": "La carte de l’Union",
+      "url": "https://www.esteban-frederic.fr/carte-union/",
+      "citation": "S’unir à l’autre, c’est aspirer à quelque chose de plus grand que soi-même.",
+      "resume": "Esteban Frederic / La carte de l’Union\nLa carte de l’Union révèle une complémentarité véritable entre deux êtres. L’amour, la compréhension et le soutien sont assurés.\nChassez vos peurs. Ne doutez pas..."
+    },
+    {
+      "id": "la-carte-de-la-famille",
+      "nom": "La carte de la Famille",
+      "url": "https://www.esteban-frederic.fr/la-carte-de-la-famille/",
+      "citation": "Tout navire a besoin d’un port d’attache.",
+      "resume": "Esteban Frederic / La carte de la Famille\nLa carte de la Famille évoque le groupe familial dans son ensemble, mais aussi le passé, les aïeux disparus…. Car, chacun d’entre nous reçoit en héritage une ..."
+    },
+    {
+      "id": "la-carte-de-lamour",
+      "nom": "La carte de l’Amour",
+      "url": "https://www.esteban-frederic.fr/la-carte-de-lamour/",
+      "citation": "Une vie sans amour est une vie sans partage.",
+      "resume": "Esteban Frederic / La carte de l’Amour\nCette carte annonce l’arrivée d’un astre lumineux dans votre ciel affectif.\nLa nuit de la solitude prend fin. Vous ne marcherez plus seul sur le chemin de votre ..."
+    },
+    {
+      "id": "carte-conflit",
+      "nom": "La carte du Conflit",
+      "url": "https://www.esteban-frederic.fr/carte-conflit/",
+      "citation": "Le conflit est hélas un mal nécessaire. Vouloir, en permanence l’éviter, c’est se condamner à l’immobilisme.",
+      "resume": "Esteban Frederic / La carte du Conflit\nToute crise peut être salutaire. En effet, il n’est pas toujours bon de taire des rancœurs qui viennent «&nbsp;empoisonner&nbsp;» le rapport à l’autre. Une mise ..."
+    },
+    {
+      "id": "carte-separation",
+      "nom": "La carte de la Séparation",
+      "url": "https://www.esteban-frederic.fr/carte-separation/",
+      "citation": "Se séparer, c’est se donner les moyens d’aimer de nouveau.",
+      "resume": "Esteban Frederic / La carte de la Séparation\nIl faut admettre que chacun d’entre nous change et évolue au cours d’une vie. Par conséquent, ce qui nous a correspondu hier, n’est parfois plus en phase a..."
+    },
+    {
+      "id": "la-carte-du-changement",
+      "nom": "La carte du Changement",
+      "url": "https://www.esteban-frederic.fr/la-carte-du-changement/",
+      "citation": "Vivre, c’est accepter de renaître plusieurs fois.",
+      "resume": "Esteban Frederic / La carte du Changement\nLa vie est un cycle qui nous amène à perpétuellement évoluer. Rien n’est jamais acquis, tout change et se transforme. Nos vies, nos amours, notre travail…\nPou..."
+    },
+    {
+      "id": "carte-discussions",
+      "nom": "La carte des Discussions",
+      "url": "https://www.esteban-frederic.fr/carte-discussions/",
+      "citation": "De la parole naît l’action.",
+      "resume": "Esteban Frederic / La carte des Discussions\nCette carte vous engage à ouvrir le dialogue. Car, la solution à tout problème naît souvent de l’échange, voire de l’affrontement des idées. Votre force de ..."
+    },
+    {
+      "id": "carte-echec",
+      "nom": "La carte de l’Echec",
+      "url": "https://www.esteban-frederic.fr/carte-echec/",
+      "citation": "J’ai plus appris de mes échecs que de mes réussites.",
+      "resume": "Esteban Frederic / La carte de l’Echec\nCelui qui ne se trompe jamais a oublié de vivre. Car, se tromper, c’est explorer de nouveaux chemins, c’est faire acte de courage, mais aussi parfois… d’aveuglem..."
+    },
+    {
+      "id": "carte-jalousie",
+      "nom": "La carte de la Jalousie",
+      "url": "https://www.esteban-frederic.fr/carte-jalousie/",
+      "citation": "La jalousie est la négation de l’intelligence.",
+      "resume": "Esteban Frederic / La carte de la Jalousie\nLa jalousie est un sentiment hautement négatif, qui ne peut engendrer rien de positif.&nbsp;\nLorsque ce sentiment naît en vous, vous devez le combattre comme..."
+    },
+    {
+      "id": "la-carte-du-mensonge",
+      "nom": "La carte du Mensonge",
+      "url": "https://www.esteban-frederic.fr/la-carte-du-mensonge/",
+      "citation": "La vérité est une source qui abreuve, alors que le mensonge est un désert aride.",
+      "resume": "Esteban Frederic / La carte du Mensonge\nLes motivations d’un mensonge peuvent être multiples. Avant même de juger celle, ou celui qui ment, vous devez comprendre les raisons de son manque de sincérité..."
+    },
+    {
+      "id": "carte-passe",
+      "nom": "La carte du Passé",
+      "url": "https://www.esteban-frederic.fr/carte-passe/",
+      "citation": "Le passé ne meurt jamais. Il continue à vivre en nous.",
+      "resume": "Esteban Frederic / La carte du Passé\nCette carte, dans votre tirage, indique que le passé exerce une forte influence sur votre vie présente.&nbsp;\nLe passé est parfois un poids, presque un boulet, et ..."
+    },
+    {
+      "id": "carte-choix",
+      "nom": "La carte du Choix",
+      "url": "https://www.esteban-frederic.fr/carte-choix/",
+      "citation": "Au moment de choisir, notre meilleure guide est l’intuition.",
+      "resume": "Esteban Frederic / La carte du Choix\nChacun de nos choix a des conséquences. Car ils déterminent notre vie. Les études, le choix du partenaire, la carrière… autant de choix qui ont forgé la personne q..."
+    },
+    {
+      "id": "carte-eloignement",
+      "nom": "La carte de l’Eloignement",
+      "url": "https://www.esteban-frederic.fr/carte-eloignement/",
+      "citation": "La distance n’est qu’un leurre. Je n’ai jamais été aussi proche de toi, depuis que nous sommes loin l’un de l’autre.",
+      "resume": "Esteban Frederic / La carte de l’Eloignement\nS’éloigner ne signifie pas forcément renoncer à quelqu’un, ou à quelque chose qui vous est cher. L’éloignement peut être une simple pause, un temps de médi..."
+    },
+    {
+      "id": "carte-bonheur",
+      "nom": "La carte du Bonheur",
+      "url": "https://www.esteban-frederic.fr/carte-bonheur/",
+      "citation": "La clef du bonheur ? Croire en ses rêves !",
+      "resume": "Esteban Frederic / La carte du Bonheur\nLe bonheur absolu est un Graal que recherche chaque individu, sans jamais l’atteindre. Seul celui qui a compris cela, saura pleinement se satisfaire de son bonhe..."
+    },
+    {
+      "id": "carte-jeunesse",
+      "nom": "La carte de la Jeunesse",
+      "url": "https://www.esteban-frederic.fr/carte-jeunesse/",
+      "citation": "Savoir rester jeune, c’est déjà approcher de l’immortalité.",
+      "resume": "Esteban Frederic / La carte de la Jeunesse\nCette carte peut, bien évidemment, désigner une personne de votre entourage, ou vous-même.&nbsp;\nElle peut faire référence à l’âge. Ou, plus subtilement, au ..."
+    },
+    {
+      "id": "carte-vieillesse",
+      "nom": "La carte de la Vieillesse",
+      "url": "https://www.esteban-frederic.fr/carte-vieillesse/",
+      "citation": "Devenir vieux, quelle importance ? Tant que mon âme est jeune.",
+      "resume": "Esteban Frederic / La carte de la Vieillesse\nCette carte peut, bien évidemment, désigner une personne de votre entourage, ou vous-même.&nbsp;\nElle peut faire référence à l’âge. Ou, plus subtilement, à..."
+    }
+  ],
+  "thematiques": {
+    "Émotions positives": [
+      "bonheur",
+      "amour",
+      "amitie",
+      "union",
+      "reussite"
+    ],
+    "Défis et obstacles": [
+      "difficulte",
+      "danger",
+      "echec",
+      "retard",
+      "instabilite"
+    ],
+    "Relations humaines": [
+      "famille",
+      "trahison",
+      "jalousie",
+      "conflit",
+      "separation"
+    ],
+    "Évolution personnelle": [
+      "changement",
+      "elevation",
+      "force",
+      "choix",
+      "jeunesse"
+    ],
+    "Aspects matériels": [
+      "argent",
+      "travail",
+      "maison",
+      "vacances"
+    ]
+  }
+}
